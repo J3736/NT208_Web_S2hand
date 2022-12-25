@@ -17,7 +17,10 @@ Môi trường ảo có sẵn: venv
 Thư mục chứa source: ecommerce
 
 Khởi động server:
+
+```
 cd ecommerce
 python manage.py runserver
+```
 
 Vào trình duyệt web: http://127.0.0.1:8000/
