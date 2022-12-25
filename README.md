@@ -15,7 +15,7 @@ pip install sqlparse
 hoặc cài đặt qua requirements:
 ```
 cd ecommerce
-pip install -r requiremments.txt
+pip install -r requirements.txt
 ```
 
 
