@@ -12,6 +12,13 @@ pip install pytz
 pip install sqlparse
 ```
 
+hoặc cài đặt qua requirements:
+```
+cd ecommerce
+pip install -r requiremments.txt
+```
+
+
 Môi trường ảo có sẵn: venv
 
 Thư mục chứa source: ecommerce
