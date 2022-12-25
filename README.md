@@ -30,4 +30,7 @@ cd ecommerce
 python manage.py runserver
 ```
 
-Vào trình duyệt web: http://127.0.0.1:8000/
+Vào trình duyệt web: 
+
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/store
